@@ -7,7 +7,7 @@ This repository contains **different controllers based on a P3DX vehicle plant**
 3. Error estimation using inferior line following sensor post-processing (neural networks)
 4. PID tuning based on genetic algorithms
 5. Fuzzy control
-6. PID tuning based on specialized systems
+6. PID tuning based on expert systems
 7. Measuaremnt correction with Extended Kalman filter
 
-Each experiment is the relative folder accompanied with a README content description file.
+Each experiment folder contains a script folder and a report PDF file. A pictures folder can also be available in some experiments. 
