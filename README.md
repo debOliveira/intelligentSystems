@@ -8,6 +8,6 @@ This repository contains **different controllers based on a P3DX vehicle plant**
 4. [PID tuning based on genetic algorithms](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp4%20-%20PID%20tuning%20genetic%20algorithms)
 5. [Fuzzy control](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp5%20-%20Fuzzy%20control)
 6. [PID tuning based on expert systems](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp6%20-%20PID%20tuning%20expert%20systems)
-7. [Measuaremnt correction with Extended Kalman filter](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp7%20-%20Extended%20Kalman%20filter)
+7. [Measurement correction with Extended Kalman filter](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp7%20-%20Extended%20Kalman%20filter)
 
 Each experiment folder contains a script folder and a report PDF file. A pictures folder can also be available in some experiments. 
