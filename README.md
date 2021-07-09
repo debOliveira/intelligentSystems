@@ -2,7 +2,7 @@
 
 This repository contains **different controllers based on a P3DX vehicle plant**. The process was simulated in CoppeliaSim, and the actuation was done through MATLAB API. The experiments are numbered as:
 
-1. [Kinematics and dynamic modeling](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp1%20-%20Modelling) 
+1. [Kinematics and dynamic modeling](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp1%20-%20Modeling) 
 2. [P and PD control law with direct access to state-space](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp2%20-%20P%20and%20PD%20control%20law)
 3. [Error estimation using inferior line following sensor post-processing (neural networks)](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp3%20-%20Sensor%20neural%20network%20post-processing)
 4. [PID tuning based on genetic algorithms](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp4%20-%20PID%20tuning%20genetic%20algorithms)
