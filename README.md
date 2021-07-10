@@ -1,4 +1,4 @@
-# Intelligent Systems [![GitHub license](https://img.shields.io/github/license/debOliveira/Intelligent-Systems.svg)](https://github.com/debOliveira/Intelligent-Systems/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![GitHub forks](https://img.shields.io/github/forks/debOliveira/Intelligent-Systems.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/debOliveira/Intelligent-Systems/network/) [![GitHub stars](https://img.shields.io/github/stars/debOliveira/Intelligent-Systems.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/debOliveira/Intelligent-Systems/stargazers/)
+# Intelligent Systems ![Status](https://img.shields.io/static/v1?style=flat&logo=github&label=status&message=finished&color=red) [![GitHub license](https://img.shields.io/github/license/debOliveira/Intelligent-Systems.svg)](https://github.com/debOliveira/Intelligent-Systems/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)  [![GitHub forks](https://img.shields.io/github/forks/debOliveira/Intelligent-Systems.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/debOliveira/Intelligent-Systems/network/) [![GitHub stars](https://img.shields.io/github/stars/debOliveira/Intelligent-Systems.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/debOliveira/Intelligent-Systems/stargazers/)
 
 This repository contains **different controllers based on a P3DX vehicle plant**. The process was simulated in CoppeliaSim, and the actuation was done through MATLAB API. The experiments are numbered as:
 
@@ -10,4 +10,6 @@ This repository contains **different controllers based on a P3DX vehicle plant**
 6. [PID tuning based on expert systems](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp6%20-%20PID%20tuning%20expert%20systems)
 7. [Measurement correction with Extended Kalman filter](https://github.com/debOliveira/Intelligent-Systems/tree/main/Exp7%20-%20Extended%20Kalman%20filter)
 
-Each experiment folder contains a script folder and a report PDF file. A pictures folder can also be available in some experiments. 
+Each experiment folder contains a script folder, a pictures folder and a report PDF file. 
+
+This study was based on the subject "Intelligent Automation", chaired by Professor Antonio Marcus Nogueira Lima in the Electrical Engineering bachelor degree course in the Federal University of Campina Grande.
