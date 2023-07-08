@@ -11,7 +11,7 @@ Control algorithms for a P3-DX robot, using CoppeliaSim and MATLAB API.
 2. [P and PD control](2_control_law/)
 3. [Error estimation using neural networks](3_error_estimation/)
 4. [PID using genetic algorithms](4_tuning_genetic/)
-5. [Fuzzy control](5:fuzzy_control/)
+5. [Fuzzy control](5_fuzzy_control/)
 6. [PID using expert systems](6_tuning_expert/)
 7. [Correction with extended Kalman filter](7_EKF/)
 
